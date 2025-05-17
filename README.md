@@ -2,7 +2,6 @@
 
 📚 Information Technology student at Richfield College <br>
 🔭 I’m  working on a few projects to help me learn JavaScript <br>
-🌱 I’m currently learning JavaScript <br>
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/tendai-teremuka-235693273/) <br>
 😄 Pronouns: She/her <br>
 ⚡ Fun fact: I love eating but hate cooking, but I also love trying out new recipes <br>
