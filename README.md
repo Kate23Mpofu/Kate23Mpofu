@@ -1,21 +1,23 @@
 ## Hi, I'm Tendai 👋
 
-📚 Information Technology student at Richfield College <br>
-🔭 I’m  working on a few projects to help me learn JavaScript <br>
+📚 Information Technology graduate at Richfield Graduate Institute of Technology <br>
+🔭 I’m  working on a few projects to help me learn data analytics and web development <br>
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/tendai-teremuka-235693273/) <br>
-😄 Pronouns: She/her <br>
-⚡ Fun fact: I love eating but hate cooking, but I also love trying out new recipes <br>
-
+👧 Pronouns: She/her <br>
+😄 Fun fact: I love eating but hate cooking, but I also love trying out new recipes <br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KateyyCakes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_katey.cakes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tendai-teremuka-235693273) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kate23Mpofu&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kate23Mpofu&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kate23Mpofu&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Kate23Mpofu&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💻 Tech Stack & Tools
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ 
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kate23Mpofu&theme=tokyonight" height="180em" />
+</p>
