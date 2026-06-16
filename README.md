@@ -16,7 +16,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
- 
+![Power BI](https://img.shields.io/badge/Power%20BI-735c21?style=for-the-badge&logo=power-bi&logoColor=white)
+
 # 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kate23Mpofu&theme=tokyonight" height="180em" />
