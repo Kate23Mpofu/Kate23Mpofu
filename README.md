@@ -1,7 +1,7 @@
 ## Hi, I'm Tendai 👋
 
 📚 Information Technology graduate at Richfield Graduate Institute of Technology <br>
-🔭 I’m  working on a few projects to help me learn data analytics and web development <br>
+🔭 I’m  working on a few projects to help me learn data analytics <br>
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/tendai-teremuka-235693273/) <br>
 👧 Pronouns: She/her <br>
 😄 Fun fact: I love eating but hate cooking, but I also love trying out new recipes <br>
